@@ -8,7 +8,7 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-mission "Boarding Civilian Korath"
+mission "Exile: Boarding Civilian Korath"
 	boarding
 	minor
 	destination "Earth"
@@ -37,7 +37,7 @@ mission "Boarding Civilian Korath"
 			`	Having this sort of ship in your fleet would be a boon, but is it worth the cost to get it?`
 				decline
 
-mission "Boarding Worldship Korath"
+mission "Exile: Boarding Worldship Korath"
 	boarding
 	minor
 	destination "Earth"
